@@ -72,7 +72,11 @@
 
 * Glow / gradient effects – Add Tailwind utilities like bg-gradient-to-r or shadow-[color].
 
+![img](./image1.png)
+![img](./image2.png)
+![img](./image3.png)
 
+[live@](https://bgcolorchanges.netlify.app/)
 
 
 ### 🎨 Future Enhancements
@@ -84,11 +88,6 @@
 * Neon / glowing button effects
 
 * Dark / light mode toggle
-
-![img](./image1.png)
-![img](./image2.png)
-![img](./image3.png)
-
 
 
 
