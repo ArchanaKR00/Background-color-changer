@@ -2,13 +2,17 @@
 
  A minimalist web project that allows users to change the background color of the webpage with a single click. The button also updates its color and the heading color dynamically to match the new background color. Built using HTML, Tailwind CSS, and JavaScript.
 
-## 🖥️ Demo
+
+
+### 🖥️ Demo
 
  * Click the “Click Me” button to randomly change the background color, button color, and heading color.
 
 * The HEX color code is displayed below the button (optional).
 
-## 🛠️ Features
+
+
+###  🛠️ Features
 
 * Minimalist design with only a heading and a button.
 
@@ -20,7 +24,9 @@
 
 * Optional HEX color display below the button.
 
-# 📂 Project Structure
+
+
+#### 📂 Project Structure
 
 | File / Folder       | Type          | Description                                         |
 |--------------------|---------------|-----------------------------------------------------|
@@ -29,7 +35,10 @@
 | `README.md`         | File          | Project documentation and instructions.           |
 | `demo-button.png`   | File (Optional)| Screenshot of the button for demo purposes.       |
 
-## ⚡ Technologies Used
+
+
+
+### ⚡ Technologies Used
 
 * HTML5 – Structure of the webpage
 
@@ -37,7 +46,10 @@
 
 * JavaScript – Generate random colors and update elements dynamically
 
-## 💻 How to Use
+
+
+
+### 💻 How to Use
 
 1. Clone or download the repository.
 
@@ -47,7 +59,10 @@
 
 4. Optionally, you can display the color code below the button.
 
-## 🔧 Customization
+
+
+
+### 🔧 Customization
 
 * Button size / color – Modify Tailwind classes in the <button> element.
 
@@ -57,7 +72,10 @@
 
 * Glow / gradient effects – Add Tailwind utilities like bg-gradient-to-r or shadow-[color].
 
-## 🎨 Future Enhancements
+
+
+
+### 🎨 Future Enhancements
 
 * Gradient color transitions
 
@@ -68,11 +86,13 @@
 * Dark / light mode toggle
 
 ![img](./image1.png)
-1[img](./image2.png)
+![img](./image2.png)
 ![img](./image3.png)
 
 
-## 📜 License
+
+
+### 📜 License
 
 This project is free to use and modify.
 
